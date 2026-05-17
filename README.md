@@ -2,7 +2,7 @@
 
 > MComp @ NUS · building at the intersection of AI & web
 
-[小红书](https://www.xiaohongshu.com/user/profile/5d3d6b620000000010029abb)
+[小红书📕](https://www.xiaohongshu.com/user/profile/5d3d6b620000000010029abb)
 
 ---
 
