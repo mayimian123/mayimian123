@@ -2,7 +2,7 @@
 
 ## mianmian
 
-MComp @ NUS &nbsp;·&nbsp; AIPM &nbsp;·&nbsp;
+MComp @ NUS &nbsp;·&nbsp; AIPM
 
 </div>
 
