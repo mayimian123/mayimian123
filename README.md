@@ -2,7 +2,7 @@
 
 ## mianmian
 
-MComp @ NUS &nbsp;·&nbsp; AIPM &nbsp;·&nbsp; [小红书](https://www.xiaohongshu.com/user/profile/5d3d6b620000000010029abb)
+MComp @ NUS &nbsp;·&nbsp; AIPM &nbsp;·&nbsp;
 
 </div>
 
