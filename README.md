@@ -2,7 +2,7 @@
 
 ## Yimian Ma
 
-**AI Product Manager · Master of Computing @ NUS · 4-time hackathon winner**
+**AI PM · MComp @ NUS · 4-time hackathon winner**
 
 [Email](mailto:mayimian123@gmail.com) · [LinkedIn](https://www.linkedin.com/in/yimian-ma-339997379/)
 
