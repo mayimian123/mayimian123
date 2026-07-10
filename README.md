@@ -28,5 +28,4 @@
 
 **Coursework** 
 
-[SkillVault](https://github.com/mayimian123/SkillVault) — decentralized AI skill vetting on Ethereum  
-[OpenAlex Citation Analyzer](https://github.com/mayimian123/OpenAlex-Citation-Analyzer) — citation graph analysis with Neo4j
+[SkillVault](https://github.com/mayimian123/SkillVault) — IS4302 decentralized AI skill vetting on Ethereum 
