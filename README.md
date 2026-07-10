@@ -24,8 +24,4 @@
 [sg-event](https://github.com/mayimian123/sg-event) — Singapore events discovery, built as a Claude Code skill  
 [terminal-beauty](https://github.com/mayimian123/terminal-beauty) — a tiny city that makes the terminal feel alive  
 [AdventureX 2025 · Hz](https://gallery.adventure-x.org/projects/740c3615-b18b-4b9a-b644-00ba2734e896) — AI social matching · Outstanding AI Practice Award  (MiniMax track)
-
-
-**Coursework** 
-
 [SkillVault](https://github.com/mayimian123/SkillVault) — IS4302 decentralized AI skill vetting on Ethereum 
