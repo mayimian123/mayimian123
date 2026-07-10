@@ -6,7 +6,7 @@
 
 MComp @ NUS · 4 AI internships (TikTok / Kimi / Bitdeer / Huawei) · 6 hackathons, 4 wins
 
-[Portfolio ↗](https://mayimian.com) · [Email](mailto:mayimian123@gmail.com) · [LinkedIn](https://www.linkedin.com/in/yimian-ma-339997379/) · [小红书 @mianmian_](https://www.xiaohongshu.com/user/profile/5d3d6b620000000010029abb)
+[Email](mailto:mayimian123@gmail.com) · [LinkedIn](https://www.linkedin.com/in/yimian-ma-339997379/) · [小红书 @mianmian_](https://www.xiaohongshu.com/user/profile/5d3d6b620000000010029abb)
 
 </div>
 
