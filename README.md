@@ -1,6 +1,6 @@
 <div align="center">
 
-## Yimian Ma · mianmian
+## Yimian Ma
 
 **AI Product Manager** — I turn model capabilities into products people can use.
 
@@ -29,6 +29,6 @@ MComp @ NUS · 6 hackathons, 4 wins · writing about AI products & vibe coding o
 
 **learning in public**
 
-小红书 @mianmian_ — 1.58M+ views on AI products & vibe coding  
+小红书 — 1.58M+ views on AI products & vibe coding  
 [SkillVault](https://github.com/mayimian123/SkillVault) — decentralized AI skill vetting on Ethereum  
 [OpenAlex Citation Analyzer](https://github.com/mayimian123/OpenAlex-Citation-Analyzer) — citation graph analysis with Neo4j
