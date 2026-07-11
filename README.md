@@ -17,11 +17,12 @@
 [ByteSize](https://github.com/mayimian123/PSA-Code-Sprint-2025-BYTESIZE) — RAG career platform for PSA employees · 🏆 **Commendation Prize, top 5% (8-15 / 400+ teams), team lead**  
 [Lumae](https://github.com/mayimian123/lumae) — menopause wellness companion, CBT as an OpenClaw skill · 🥈 **TRAE × Psychology 2nd + 🥇 infra contribution 1st**
 
+[AdventureX 2025 · Hz](https://gallery.adventure-x.org/projects/740c3615-b18b-4b9a-b644-00ba2734e896) — AI social matching · **Outstanding AI Practice Award  (MiniMax track)** 
+
 **Side quests**
 
-[mindecho](https://github.com/mayimian123/mindecho) — cinematic dream journal, AI continuation & physics-based archive  
 [tab-out-2.0](https://github.com/mayimian123/tab-out-2.0) — Chrome new tab that cured my tab-hoarding  
+[mindecho](https://github.com/mayimian123/mindecho) — cinematic dream journal, AI continuation & physics-based archive  
 [sg-event](https://github.com/mayimian123/sg-event) — Singapore events discovery, built as a Claude Code skill  
 [terminal-beauty](https://github.com/mayimian123/terminal-beauty) — a tiny city that makes the terminal feel alive  
-[AdventureX 2025 · Hz](https://gallery.adventure-x.org/projects/740c3615-b18b-4b9a-b644-00ba2734e896) — AI social matching · Outstanding AI Practice Award  (MiniMax track) 
 [SkillVault](https://github.com/mayimian123/SkillVault) — IS4302 decentralized AI skill vetting on Ethereum 
