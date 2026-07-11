@@ -16,7 +16,6 @@
 [SeaLaunch AI](https://github.com/mayimian123/CodexHackathon_SEALaunch) — multi-agent e-commerce ops, human-in-the-loop · **OpenAI × Sea Codex Hackathon (40 / 319 teams selected)**  
 [ByteSize](https://github.com/mayimian123/PSA-Code-Sprint-2025-BYTESIZE) — RAG career platform for PSA employees · 🏆 **Commendation Prize, top 5% (8-15 / 400+ teams), team lead**  
 [Lumae](https://github.com/mayimian123/lumae) — menopause wellness companion, CBT as an OpenClaw skill · 🥈 **TRAE × Psychology 2nd + 🥇 infra contribution 1st**
-
 [AdventureX 2025 · Hz](https://gallery.adventure-x.org/projects/740c3615-b18b-4b9a-b644-00ba2734e896) — AI social matching · **Outstanding AI Practice Award  (MiniMax track)** 
 
 **Side quests**
