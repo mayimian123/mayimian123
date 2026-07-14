@@ -22,6 +22,6 @@
 
 [tab-out-2.0](https://github.com/mayimian123/tab-out-2.0) — Chrome new tab that cured my tab-hoarding  
 [sg-event](https://github.com/mayimian123/sg-event) — Singapore events discovery, built as a Claude Code skill  
-[SkillVault](https://github.com/mayimian123/SkillVault) — IS4302 decentralized AI skill vetting on Ethereum 
+[SkillVault](https://github.com/mayimian123/SkillVault) — IS4302 decentralized AI skill vetting on Ethereum  
 [mindecho](https://github.com/mayimian123/mindecho) — cinematic dream journal, AI continuation & physics-based archive   
 [terminal-beauty](https://github.com/mayimian123/terminal-beauty) — a tiny city that makes the terminal feel alive  
